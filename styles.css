@@ -127,6 +127,8 @@ body {
     text-align: center;
     margin-top: 30px;
     padding:10px;
+    background-color: #1b1b32;
+    color:#d0d0d5
   }
   
   .info label{
